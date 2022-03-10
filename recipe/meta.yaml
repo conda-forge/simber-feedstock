@@ -1,5 +1,5 @@
 {% set name = "simber" %}
-{% set version = "0.2.3" %}
+{% set version = "0.2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/simber-{{ version }}.tar.gz
-  sha256: f7d574bd52e95c118ed488893061cf4ec45cf451705b592163c862d8b7b1f507
+  sha256: 96e92ade81430c7650a0563cac7994673b9459cc7795a41297056b3f4fd4d909
 
 build:
   number: 0
@@ -39,6 +39,7 @@ about:
   license_file: LICENSE
   home: https://github.com/deepjyoti30/simber
   doc_url: https://simber.deepjyoti30.dev/
+  description: This library is aimed as a simple, minimal yet powerful logging library for all Python apps. This logging library aims to take away all the disadvantages of using the default logging library and at the same time be feature filled so that the end user feels powerful using it.
 
 extra:
   recipe-maintainers:
