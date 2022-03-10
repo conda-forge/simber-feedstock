@@ -13,6 +13,8 @@ Development: https://github.com/deepjyoti30/simber
 
 Documentation: https://simber.deepjyoti30.dev/
 
+This library is aimed as a simple, minimal yet powerful logging library for all Python apps. This logging library aims to take away all the disadvantages of using the default logging library and at the same time be feature filled so that the end user feels powerful using it.
+
 Current build status
 ====================
 
